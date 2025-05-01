@@ -1,7 +1,7 @@
 
 
  .register_container {
-    background: var(--color-bg);
+    background: var(--color-white);
     padding: 4rem;
     display: grid;
     grid-template-columns: 40% 60%;
@@ -14,7 +14,7 @@
 
 /* ---------ASIDE------- */
 .register_aside {
-    background: var(--color-primary);
+    background: var(--color-success);
     border-radius: 3rem;
     position: relative;
     padding: 3rem;
@@ -51,7 +51,7 @@
 }
 
 .register_socials a {
-    background: var(--color-bg2);
+    background: var(--color-success);
     padding: 0.5rem;
     border-radius: 50%;
     font-size: 0.9rem;
@@ -83,7 +83,7 @@ input,
 textarea {
     width: 100%;
     padding: 1rem;
-    background: var(--color-bg1);
+    background: var(--color-success);
     color: var(--color-white);
 }
 
